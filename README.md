@@ -1,2 +1,1 @@
-#
-# making the zig-zag shape with CSS using :nth-child(even/odd)
+# (Zig-Zag) file >> The zig-zag shape with CSS using :nth-child(even/odd)
